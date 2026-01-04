@@ -13,9 +13,13 @@ Currently, I’m improving my skills with **Svelte, Tauri, and Rust**, while act
 ## 🚀 Tech Stack
 
 **Languages**
-- Python, C / C++, Java, C#, Rust (Beginner)
+- Python
+- C / C++
 - JavaScript / TypeScript
+- Java
+- C#,
 - SQL
+- Rust (Beginner)
 
 **Frontend**
 - HTML, CSS
